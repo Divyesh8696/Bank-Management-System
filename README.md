@@ -40,4 +40,4 @@ The program allows customers to:
 ---
 
 ## Project Structure
--bank.java (source code)
+-ATMSystem.java (source code)
