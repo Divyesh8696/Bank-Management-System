@@ -41,5 +41,5 @@ The program allows customers to:
 
 ## Project Structure
 - ATMSystem.java (source code)
-- Account.dat (the file will be created when you apply quit function and it will b eused for serializability)
+- Account.dat (the file will be created when you apply quit function and it will be used for serializability)
 
