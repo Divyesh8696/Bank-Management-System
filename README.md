@@ -1,6 +1,6 @@
-# Bank Management System (Java Project)
+# ATM Management System (Java Project)
 
-The **Bank Management System** is a simple console-based Java application that allows users to perform basic banking operations. It is designed to mimic the core functionality of a banking system, making it easier to manage multiple accounts and customer details using an interactive, menu-driven interface.  
+The **ATM Management System** is a simple console-based Java application that allows users to perform basic banking operations. It is designed to mimic the core functionality of a banking system, making it easier to manage multiple accounts and customer details using an interactive, menu-driven interface.  
 
 This project demonstrates the use of **Java OOP concepts (classes, objects, methods, encapsulation)** along with fundamental programming techniques such as arrays/lists, loops, and sorting algorithms.  
 
